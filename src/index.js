@@ -164,6 +164,8 @@ class List {
       style: {},
       items: {
         br: true,
+        b: true,
+        i: true
       }
     };
   }
